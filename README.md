@@ -4,7 +4,7 @@ A standalone, single-file HTML microsite presenting the **Envision Print** manag
 
 ## Contents
 
-- `Envision Print for Genesis - Standalone.html` — the entire site bundled into one file (~13 MB). All images, fonts, and other assets are base64-encoded and gzip-compressed inside the HTML and unpacked into Blob URLs by the page on load.
+- `index.html` — the entire site bundled into one file (~13 MB). All images, fonts, and other assets are base64-encoded and gzip-compressed inside the HTML and unpacked into Blob URLs by the page on load.
 - `README.md` — this file.
 
 ## What's in the page
